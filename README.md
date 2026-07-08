@@ -1,63 +1,24 @@
-<h1 align="center">Hi, I'm Siddharth Singh 👋</h1>
-<h3 align="center">Data Analyst | AI-Fluent Data Science Student | B.Sc(Hons.) Data Science, Sem V</h3>
+# 💫 About Me:
+Data Analyst who ships 🚀 | SQL + Python + Streamlit | AI-fluent, not AI-dependent
 
-<p align="center">
-I build and <b>deploy</b> data products — not just notebooks. Currently focused on turning raw datasets into live, decision-ready tools using SQL, Python, and applied AI.
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sid_dharth.26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/siddharth-singh-267227345) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Siddharth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:siddharthsingh262005@gmail.com) 
 
-### 🚀 Flagship Project
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=siddharth-0309&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=siddharth-0309&theme=nightowl&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=siddharth-0309&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-**[Olist Delivery Performance & Customer Satisfaction Dashboard](https://olist-delivery-dashboard-68o6q373ygdcpxb4acb8bq.streamlit.app/)**
-📎 Repo: [olist-delivery-dashboard](https://github.com/siddharth-0309/olist-delivery-dashboard)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=siddharth-0309&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-An end-to-end analytics product built on 8 relational e-commerce tables (100k+ orders):
-- Designed a SQLite backend and wrote 5 advanced SQL analyses — window functions, CTEs, multi-table joins, and delay-bucket segmentation with `CASE WHEN`
-- Built a 5-tab interactive **Streamlit** dashboard with **Plotly** visualizations covering delivery performance, seller behavior, and customer satisfaction
-- Deployed live on Streamlit Community Cloud — no local setup needed to explore it
-
-> This project proves the full pipeline: raw relational data → SQL analysis → deployed product a non-technical stakeholder can actually use.
-
----
-
-### 🧠 How I use AI (honestly)
-
-I use AI coding assistants daily to move faster — but every query, join, and design decision in my projects, I can explain line by line. AI is a force-multiplier for me, not a substitute for understanding. I'm currently working on integrating an LLM (Groq API) into the Olist dashboard to auto-generate plain-English insights from the data.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=siddharth-0309&limit=5&theme=merko&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=siddharth-0309&icon=9&color=7)](https://visitcount.itsvg.in)
 
-### 🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
----
-
-### 📂 Other Projects
-
-| Project | What it shows |
-|---|---|
-| [Netflix Movie Analytics](https://github.com/siddharth-0309/Netflix_Movie_Analytics_Project) | EDA on 9,800+ titles — content trends & ROI insights for OTT platforms |
-| [Diwali Sales Analysis](https://github.com/siddharth-0309/Diwali-sales-analysis-) | Customer demographics & purchase pattern analysis |
-| [Madhav E-commerce Dashboard](https://github.com/siddharth-0309/Madhav-E-commerce-Dashboard) | Power BI dashboard for sales KPIs |
-
----
-
-### 📜 Certifications
-- **Deloitte Data Analytics Job Simulation** — Forage (March 2026)
-
----
-
-### 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddharth-singh-267227345)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:siddharthsingh262005@gmail.com)
-
----
-
-<p align="center"><i>Goal: Data Analyst role → AI-fluent Data Scientist/ML Engineer</i></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
