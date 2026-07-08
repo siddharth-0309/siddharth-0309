@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Siddharth Singh 👋</h1>
-<h3 align="center">Data Analyst | AI-Fluent Data Science Student | B.Sc(Hons.) Data Science, Sem V</h3>
+<h3 align="center">Data Analyst | AI-Fluent Data Science Student | B.Sc(Hons.) Data Science</h3>
 
 <p align="center">
 I build and <b>deploy</b> data products — not just notebooks. Currently focused on turning raw datasets into live, decision-ready tools using SQL, Python, and applied AI.
